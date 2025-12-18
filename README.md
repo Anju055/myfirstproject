@@ -1,2 +1,4 @@
-My First GitHub Project
-This is my first file.
+
+Hello!
+This is my first GitHub project.
+I am learning GitHub.
